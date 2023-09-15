@@ -1,12 +1,18 @@
 # A02
 Part 1: 
+
 Task: Install GitHub as a local program https://git-scm.com/downloads
+
 Feature: Download link for using Github, 
 
 Task: Install Webstorm
+
 Feature: Download link for Webstorm https://www.jetbrains.com/student/
+
 Step 1: Creating a Webstorm File. Choose File  HTMLHTML 5 or FileStylesheet
+
 Step 2: Connect Github with Webstorm. In Webstorm press (Ctrl+Alt+S) for system preferences. Select Version control Git. Enter the path to the git.ex
+
 Step 3: Add Github Password to Webstorm. In Webstorm press (Ctrl+Alt+S) for system preferences. Select Appearance and Behavior | System Settings | Passwords
 
 Task: Set up GitHub
