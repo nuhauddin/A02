@@ -17,7 +17,7 @@ Step 4: Add files to GitThe Add to Git dialog opens. Click Add. This adds to loc
 Step 5: Commit your changes 
 
 Part 2: 
-**Branch**: allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. 
+<br>**Branch**: allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. 
 **Clone**: copy the repository from GitHub.com to your local machine.
 **Commit**: records changes to one or more files in your branch. 
 **Fetch**: retrieve new work done by other people.
