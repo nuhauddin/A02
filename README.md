@@ -27,6 +27,7 @@ Step 4: Add files to GitThe Add to Git dialog opens. Click Add. This adds to loc
 
 Step 5: Commit your changes 
 
+
 Part 2: 
 <br>**Branch**: allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. 
 
